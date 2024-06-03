@@ -45,3 +45,4 @@ core
 # Ignore temporary files
 *~
 *.swp
+diff.txt
