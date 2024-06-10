@@ -25,8 +25,6 @@ mod serial;
 
 use core::panic::PanicInfo;
 
-use vga_buffer::WRITER;
-
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
 #[repr(u32)]
 pub enum QemuExitCode {
