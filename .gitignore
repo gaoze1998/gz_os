@@ -30,9 +30,6 @@ Cargo.lock
 # Ignore environment files with sensitive data
 .env
 
-# Ignore configuration files with sensitive data
-config.*
-
 # Ignore log files
 *.log
 
